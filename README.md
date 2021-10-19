@@ -1,2 +1,2 @@
 # python-lab
-Python lab
+Repositório para estudo da linguagem Python
